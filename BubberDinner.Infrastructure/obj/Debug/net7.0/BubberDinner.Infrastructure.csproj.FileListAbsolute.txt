@@ -1,0 +1,15 @@
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net7.0\BubberDinner.Infrastructure.deps.json
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net7.0\BubberDinner.Infrastructure.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net7.0\BubberDinner.Infrastructure.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.AssemblyInfo.cs
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\refint\BubberDinner.Infrastructure.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\ref\BubberDinner.Infrastructure.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net7.0\BubberDinner.Application.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\bin\Debug\net7.0\BubberDinner.Application.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Infrastructure\obj\Debug\net7.0\BubberDinner.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\bin\Debug\net7.0\BubberDinner.Application.deps.json
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\bin\Debug\net7.0\BubberDinner.Application.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\bin\Debug\net7.0\BubberDinner.Application.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.AssemblyInfo.cs
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\refint\BubberDinner.Application.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\BubberDinner.Application.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Application\obj\Debug\net7.0\ref\BubberDinner.Application.dll

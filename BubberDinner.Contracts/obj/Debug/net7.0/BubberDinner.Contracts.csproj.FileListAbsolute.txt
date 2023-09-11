@@ -1,0 +1,11 @@
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\bin\Debug\net7.0\BubberDinner.Contracts.deps.json
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\bin\Debug\net7.0\BubberDinner.Contracts.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\bin\Debug\net7.0\BubberDinner.Contracts.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.AssemblyInfo.cs
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\refint\BubberDinner.Contracts.dll
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\BubberDinner.Contracts.pdb
+C:\Users\claud\Desktop\BubberDinner\BubberDinner.Contracts\obj\Debug\net7.0\ref\BubberDinner.Contracts.dll
